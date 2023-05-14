@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688134215607",
+    "project_id": "login-register-uts",
+    "storage_bucket": "login-register-uts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688134215607:android:1e5efe7d62a2a337807a32",
+        "android_client_info": {
+          "package_name": "com.example.utsdimasaryasatya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688134215607-jmrfu4epsl73gfkj5a3p0eb5oul6pp2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKQT4eFSSE33GdECWA7xTyxo4EWjBMcfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688134215607-jmrfu4epsl73gfkj5a3p0eb5oul6pp2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
